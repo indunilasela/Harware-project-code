@@ -1,7 +1,9 @@
 Introduction
+
 Describe the purpose and goal of your project. Mention its main features and functionalities.
 
 Components Used
+
 List the hardware components and libraries used in your project:
 
 Arduino Mega
@@ -16,6 +18,7 @@ Setup Instructions
 Provide step-by-step instructions on how to set up and configure your project:
 
 Hardware Setup:
+
 
 Connect each component as per the circuit diagram.
 Ensure all connections are secure and correct.
